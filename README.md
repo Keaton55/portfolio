@@ -2,7 +2,7 @@
 Example code from my work as a BI analyst and Data Science personal projects. 
 
 # Inventory_Wizard_Domo_Update
-This was created to present information for over 4,000 items in a sheet by sheet in depth analysis 
+This was created to present information for over 4,000 items in a sheet by sheet in depth analysis.
 Main libraries include Openpyexcel, csv, and datetime
 
 # Automated Pull 
