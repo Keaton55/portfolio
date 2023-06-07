@@ -1,7 +1,7 @@
 # Portfolio
 Example code from my work as a BI analyst and Data Science personal projects. 
 
-#Bird-call-predictions
+# Bird-call-predictions
 Uses a KNN classifier on the MFCC's of bird sounds to predict which bird is making that sound. Scored a 53.162% accuracy on the hidden final data. Data comes from this Kaggle Dataset https://www.kaggle.com/competitions/birdclef-2023/data. 
 
 # Inventory_Wizard_Domo_Update
