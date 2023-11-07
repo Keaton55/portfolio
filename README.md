@@ -4,7 +4,7 @@ Example code from my work on Data Science personal projects.
 # Contrails Data/Training
 Computer vision project on a Kaggle dataset that tries to map where there is a contrail in the image (if at all). Scored a .014 Binary Cross Entropy loss on the Valid dataset. 
 
-#Fashion_MNIST_Computer_Vision
+# Fashion_MNIST_Computer_Vision
 Computer vision project on the Fashion MNIST dataset, which predicts which item of clothing out of 10 different types of clothing. Scored a 90.5% accuracy on the test dataset. 
 
 # Bird-call-predictions
