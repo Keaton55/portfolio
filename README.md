@@ -1,7 +1,7 @@
 # Portfolio
 Example code from my work on Data Science personal projects. 
 
-# Contrails Data/Traiing
+# Contrails Data/Training
 Computer vision project on a Kaggle dataset that tries to map where there is a contrail in the image (if at all). Scored a .014 Binary Cross Entropy loss on the Valid dataset. 
 
 #Fashion_MNIST_Computer_Vision
